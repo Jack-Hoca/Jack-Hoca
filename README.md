@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a passionate software developer from Uzbekistan <br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning Unity<br>- ⚡ In my free time I like making different Front-end and Unity projects</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : </h3>
 
 ###
 
